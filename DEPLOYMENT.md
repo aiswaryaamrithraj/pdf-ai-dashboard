@@ -6,6 +6,7 @@ This guide will help you deploy the PDF AI Dashboard to Vercel.
 
 1. **Vercel Account**: Sign up at [vercel.com](https://vercel.com)
 2. **MongoDB Atlas**: Set up a MongoDB Atlas cluster
+   - 📖 **Detailed Guide**: See [MONGODB_SETUP.md](./MONGODB_SETUP.md) for step-by-step instructions
 3. **AI API Keys**: Get API keys from either:
    - [Google AI Studio](https://aistudio.google.com/) for Gemini
    - [Groq Console](https://console.groq.com/) for Groq
