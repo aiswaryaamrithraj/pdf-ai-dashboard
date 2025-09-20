@@ -8,6 +8,8 @@ yarn-error.log*
 output.css
 dist/
 build/
+.next/
+.turbo/
 
 # Environment variables
 .env
@@ -34,3 +36,7 @@ Thumbs.db
 # Logs
 logs
 *.log
+
+# Temporary files
+*.tmp
+*.temp
